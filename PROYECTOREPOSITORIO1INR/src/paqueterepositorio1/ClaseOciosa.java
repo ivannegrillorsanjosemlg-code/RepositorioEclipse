@@ -5,5 +5,7 @@ package paqueterepositorio1;
  * @author ivanNegrilloramirez
  */
 public class ClaseOciosa {
-	
+	public static void main(String [] args) {
+		System.out.println();
+	}
 }
