@@ -7,5 +7,6 @@ package paqueterepositorio1;
 public class ClaseOciosa {
 	public static void main(String [] args) {
 		System.out.println("hola");
+		System.out.println("hola soy guille");
 	}
 }
