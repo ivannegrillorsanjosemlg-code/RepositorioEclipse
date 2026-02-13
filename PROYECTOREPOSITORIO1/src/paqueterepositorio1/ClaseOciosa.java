@@ -2,8 +2,8 @@ package paqueterepositorio1;
 
 /**
  * Clase por desarollar
- * @author ivanNegrillo
+ * @author ivanNegrilloramirez
  */
 public class ClaseOciosa {
-
+	
 }
